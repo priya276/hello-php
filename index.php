@@ -1,6 +1,6 @@
-?php 
-Print "Hello, World!";
+<?php 
+Print "ello, World!";
 ?>
 <?php 
-Echo "Hello, World!";
+Echo "ello, World!";
 ?>
