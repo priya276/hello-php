@@ -1,8 +1,8 @@
 <?php 
-Print "Hello, World!";
+Print "Heello, World!";
 ?>
 <php 
-echo "Hello, World!";
+echo "Heello, World!";
 ?>
 
   
