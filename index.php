@@ -1,6 +1,6 @@
-<?php 
+php 
 Print "Hello, World!";
-?>
+>
 <php 
 echo "Hello, World!";
 ?>
